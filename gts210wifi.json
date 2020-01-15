@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1578404718,
+      "filename": "lineage-14.1-20200107-UNOFFICIAL-gts210wifi-signed.zip",
+      "id": "615cb8c0474957be09ac428a18d58d2a",
+      "romtype": "UNOFFICIAL",
+      "size": 304404810,
+      "url": "https://terathree2.spdns.de/LineageOS/builds/cm-14.1/gts210wifi/lineage-14.1-20200107-UNOFFICIAL-gts210wifi-signed.zip",
+      "version": "14.1"
+    }
+  ]
+}
